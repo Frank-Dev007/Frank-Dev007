@@ -1,4 +1,5 @@
 ## Hi there 👋
+#Hola Mi nombre es Frank Manuel Garcia Pernett estudiante de ingenieria de sistemas en proceso de ser un desarrollador
 
 <!--
 **Frank-Dev007/Frank-Dev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
